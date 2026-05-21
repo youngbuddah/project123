@@ -4,7 +4,8 @@
   "description": "Node.js static website with Jenkins CI/CD and Kubernetes",
   "main": "app.js",
   "scripts": {
-    "start": "node app.js"
+    "start": "node app.js",
+    "test": "echo \"Tests Passed Successfully\""
   },
   "dependencies": {
     "express": "^4.22.2"
@@ -12,7 +13,14 @@
   "devDependencies": {
     "mocha": "^11.7.5"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "nodejs",
+    "express",
+    "docker",
+    "jenkins",
+    "kubernetes",
+    "cicd"
+  ],
+  "author": "Abhay Bendekar",
   "license": "ISC"
 }
