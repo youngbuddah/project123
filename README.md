@@ -266,10 +266,4 @@ CMD ["node", "app.js"]
 
 ```
 
----
 
-If you want, I can also:
-- Add **badges (build passing, Docker pulls, etc.)**
-- Create a **Jenkinsfile for this pipeline**
-- Or generate a **professional GitHub profile README for you**
-```
