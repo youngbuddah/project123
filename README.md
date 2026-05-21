@@ -259,7 +259,7 @@ CMD ["node", "app.js"]
 ![Webpage](Screenshots/Screenshot-2026-05-21-191048.png)
 
 ## Jenkins Pipeline
-![Jenkins](Screenshots/Screenshot-2026-05-21-191048.png)
+![Jenkins](Screenshots/Screenshot-2026-05-21-191201.png)
 
 ## Grafana Dashboard
 ![Grafana](Screenshots/Screenshot-2026-05-21-191342.png)
