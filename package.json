@@ -8,7 +8,8 @@
     "test": "echo \"Tests Passed Successfully\""
   },
   "dependencies": {
-    "express": "^4.22.2"
+    "express": "^4.22.2",
+    "prom-client": "^15.1.3"
   },
   "devDependencies": {
     "mocha": "^11.7.5"

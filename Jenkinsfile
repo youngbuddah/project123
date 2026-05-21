@@ -81,7 +81,15 @@ pipeline {
             }
         }
     }
+	stage('Verify Monitoring') {
+    steps {
 
+        sh '''
+        kubectl get pods -n monitoring
+        kubectl get svc -n monitoring
+        '''
+    }
+}
     post {
 
         success {
