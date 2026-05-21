@@ -255,9 +255,18 @@ CMD ["node", "app.js"]
 
 **Abhay Bendekar**
 
----
+## Static Website WebPage
+![Webpage](Screenshots/Screenshot 2026-05-21 191201.png)
 
+## Jenkins Pipeline
+![Jenkins](Screenshots/Screenshot 2026-05-21 191048.png)
 
-```
+## Grafana Dashboard
+![Grafana](Screenshots/Screenshot 2026-05-21 191342.png)
+![Grafana](Screenshots/Screenshot 2026-05-21 191520.png)
+![Grafana](Screenshots/Screenshot 2026-05-21 191631.png)
 
-
+## Prometheus Dashboard
+![Prometheus](Screenshots/Screenshot 2026-05-21 191710.png)
+![Prometheus](Screenshots/Screenshot 2026-05-21 191727.png)
+![Prometheus](Screenshots/Screenshot 2026-05-21 191750.png)
