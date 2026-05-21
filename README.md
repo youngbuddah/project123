@@ -256,17 +256,17 @@ CMD ["node", "app.js"]
 **Abhay Bendekar**
 
 ## Static Website WebPage
-![Webpage](Screenshots/Screenshot 2026-05-21 191048.png)
+![Webpage](Screenshots/Screenshot-2026-05-21-191048.png)
 
 ## Jenkins Pipeline
-![Jenkins](screenshots/Screenshot 2026-05-21 191048.png)
+![Jenkins](Screenshots/Screenshot-2026-05-21-191048.png)
 
 ## Grafana Dashboard
-![Grafana](screenshots/Screenshot 2026-05-21 191342.png)
-![Grafana](screenshots/Screenshot 2026-05-21 191520.png)
-![Grafana](screenshots/Screenshot 2026-05-21 191631.png)
+![Grafana](Screenshots/Screenshot-2026-05-21-191342.png)
+![Grafana](Screenshots/Screenshot-2026-05-21-191520.png)
+![Grafana](Screenshots/Screenshot-2026-05-21-191631.png)
 
 ## Prometheus Dashboard
-![Prometheus](screenshots/Screenshot 2026-05-21 191710.png)
-![Prometheus](screenshots/Screenshot 2026-05-21 191727.png)
-![Prometheus](screenshots/Screenshot 2026-05-21 191750.png)
+![Prometheus](Screenshots/Screenshot-2026-05-21-191710.png)
+![Prometheus](Screenshots/Screenshot-2026-05-21-191727.png)
+![Prometheus](Screenshots/Screenshot-2026-05-21-191750.png)
