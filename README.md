@@ -257,12 +257,6 @@ CMD ["node", "app.js"]
 
 ---
 
-## ⭐ Future Improvements
-
-* Terraform for Infrastructure as Code
-* ArgoCD GitOps deployment
-* HTTPS with Ingress Controller
-* Auto-scaling Kubernetes workloads
 
 ```
 
