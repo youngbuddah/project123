@@ -256,7 +256,7 @@ CMD ["node", "app.js"]
 **Abhay Bendekar**
 
 ## Static Website WebPage
-![Webpage](screenshots/Screenshot 2026-05-21 191201.png)
+![Webpage](Screenshots/Screenshot 2026-05-21 191048.png)
 
 ## Jenkins Pipeline
 ![Jenkins](screenshots/Screenshot 2026-05-21 191048.png)
